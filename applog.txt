@@ -1,0 +1,19 @@
+INFO    2022-10-26 19:57:51,787 [main] AverageList  - La cantidad de la lista es mayor de 5
+ERROR   2022-10-26 19:57:51,791 [main] Main  - La lista está vacía
+INFO    2022-10-26 20:00:38,807 [main] AverageList  - La lista tiene más de 5 dígitos
+ERROR   2022-10-26 20:00:38,814 [main] Main  - La lista está vacía
+INFO    2022-10-26 20:06:02,735 [main] AverageList  - La lista tiene mas de 5 digitos
+ERROR   2022-10-26 20:06:02,735 [main] Main  - La lista está vacía
+INFO    2022-10-26 20:07:43,398 [main] AverageList  - La lista tiene mas de 5 digitos
+ERROR   2022-10-26 20:07:43,398 [main] Main  - La lista esta vacia
+INFO    2022-10-26 20:11:08,861 [main] AverageList  - La lista tiene mas de 5 elementos
+ERROR   2022-10-26 20:11:08,869 [main] Main  - La lista esta vacia
+ERROR   2022-10-26 20:16:38,598 [main] Main  - La lista esta vacia
+INFO    2022-10-26 20:18:08,278 [main] AverageList  - La lista tiene mas de 5 elementos
+ERROR   2022-10-26 20:18:08,286 [main] Main  - La lista esta vacia
+ERROR   2022-10-26 20:20:23,228 [main] Main  - La lista esta vacia
+INFO    2022-10-26 20:20:55,873 [main] AverageList  - La lista tiene más de 10 elementos
+ERROR   2022-10-26 20:20:55,881 [main] Main  - La lista esta vacia
+INFO    2022-10-26 20:21:20,403 [main] AverageList  - La lista tiene mas de 5 y menos de 10 elementos
+INFO    2022-10-26 20:21:20,403 [main] AverageList  - La lista tiene más de 10 elementos
+ERROR   2022-10-26 20:21:20,403 [main] Main  - La lista esta vacia
